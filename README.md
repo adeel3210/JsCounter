@@ -1,3 +1,3 @@
 # JsCounter
 A Number Counter made in vanilla JavaScript
-https://adeel3210.github.io/JsCounter/
+ https://htmlpreview.github.io/?https://adeel3210.github.io/JsCounter/
